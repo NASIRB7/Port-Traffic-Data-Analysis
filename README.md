@@ -22,3 +22,6 @@ To start exploring port traffic insights:
 ## File Structure
 - `port_traffic_analysis.ipynb`: Jupyter Notebook containing the Python script.
 - `README.md`: Project overview, instructions, and details.
+
+## Dataset
+- The dataset used in this project is available on Kaggle: https://www.kaggle.com/datasets/nasser77/port-traffic-q3-2023
